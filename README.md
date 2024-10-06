@@ -1,6 +1,6 @@
 # Token Assets
 
-An open source token assets (images) managed by ChiPay.
+An open source token assets (images) managed by Cosine Labs.
 
 ## Disclaimer
 
@@ -10,7 +10,7 @@ While we welcome token submissions, acceptance doesn't signify a direct partners
 
 MIT License
 
-Copyright (c) 2024 ChiPay
+Copyright (c) 2024 Cosine Labs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
